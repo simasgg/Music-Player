@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiniApp2</string>
+    <string name="university">university</string>
+    <string name="pbd">PBD2021</string>
+    <string name="miniApp">Android Mini App 2</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="gon">g-on</string>
+    <string name="goff">g-off</string>
+    <string name="exit">exit</string>
+    <string name="pressPlay">Press play</string>
+    <string name="time">00:00:00</string>
+</resources>
