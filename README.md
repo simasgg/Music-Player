@@ -5,6 +5,6 @@ using notification commands (the music keeps playing even when the screen is loc
 When horizontal motion is detected, app calls Pause; when vertical motion is detected, app calls Play; idle state does nothing. It also implements ProgressBar and track title and track duration
 are updated (both on our mainActivity and foreground notification) every second with the help of Coroutines. On pressed Play button it plays a random track.
 
-<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app1.jpg" align="left" width="300" height="500">
-<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app2.jpg" align="left" width="300" height="500">
-<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app3.jpg" align="left" width="300" height="500">
+<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app1.jpg" align="left" width="200" height="400">
+<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app2.jpg" align="left" width="200" height="400">
+<img src="https://github.com/simasgg/Music-Player-Android-app/blob/master/app3.jpg" align="left" width="200" height="400">
